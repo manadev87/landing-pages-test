@@ -1,3 +1,4 @@
+data = [
   {
     "slug": "sports-massage",
     "service": "sports massage",
@@ -34,3 +35,4 @@
     "content": "escape and unwind side-by-side with a couple’s signature massage for two. a perfect date with a special someone, a friend or a child to relax and spend time together.",
     "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/couples.jpg"
   }
+];
