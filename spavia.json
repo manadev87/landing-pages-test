@@ -1,0 +1,36 @@
+  {
+    "slug": "sports-massage",
+    "service": "sports massage",
+    "content": "great for the active and the serious athlete. a customized massage to soothe strained muscle groups that may include all aspects of massage determined by each guest’s level of athleticism. massage combined with hot stone, stretching and deep kneading eases tension in tight muscles, stimulating healing and improving recovery time from intensive training and long, stressful days.",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/sports-massage.jpg"
+  },
+  {
+    "slug": "deep-tissue-massage",
+    "service": "deep tissue therapeutic massage",
+    "content": "our deeply corrective massage releases muscle tension and toxins from the body. our specialists will help to relieve pain and discomfort in congested areas within muscles, tendons and ligaments due to stress, injury, or overuse to restore proper range of motion, leaving your body in a state of relaxation and gratitude",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/deep-tissue.jpg"
+  },
+  {
+    "slug": "hot-stone-massage",
+    "service": "hot stone massage",
+    "content": "experience the deepest form of relaxation with our hot stone massage therapy. your muscles will melt under warm basalt river stones that deeply penetrate tense muscles, releasing toxins. restore balance to your body and leave feeling calmer, more relaxed and stress-free.",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/hot-stone.jpg"
+  },
+  {
+    "slug": "signature-massage",
+    "service": "spavia signature massage",
+    "content": "our most popular option, this swedish massage uses long fluid movements to gently stretch your muscles and relieve tension. immerse yourself in a deeply comforting experience with your choice of our aromatic hydrating massage lotions.",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/sig-massage.jpg"
+  },
+  {
+    "slug": "maternity-massage",
+    "service": "maternity massage",
+    "content": "our prenatal massage specialists provide expectant mothers with the ultimate form of relaxation. designed especially for mom-to-be, our maternity massage helps promote circulation, relieve water retentions and also help target fatigue, sciatic pain and muscle aches. let our specialists take care of you while you prepare to take care of your little one.",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/09/maternity.jpg"
+  },
+  {
+    "slug": "couples-massage",
+    "service": "couple’s massage",
+    "content": "escape and unwind side-by-side with a couple’s signature massage for two. a perfect date with a special someone, a friend or a child to relax and spend time together.",
+    "img": "https://spaviadayspa.com/wp-content/uploads/2019/05/couples.jpg"
+  }
